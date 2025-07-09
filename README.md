@@ -40,20 +40,18 @@ Coming soon...
 ## 📸 Screenshots
 PLAYER :
 
+![salad](https://github.com/user-attachments/assets/a7a04f27-3605-4018-9120-fec42d1befad)
 
-
-
-![salad](https://github.com/user-attachments/assets/9ee67b68-2f3b-4495-8b58-be23ba5984e2)
 
 ENEMIES :
 
 
-![donut](https://github.com/user-attachments/assets/e231aa89-74a2-4fda-b266-2c69b04c2ef9)
+
+![donut](https://github.com/user-attachments/assets/33127f8c-ab1e-4cce-8443-2a2421580e8b)
 
 
 
-
-![marshmellow](https://github.com/user-attachments/assets/ccf8870f-09ea-4e1e-bb75-a06a916a83ba)
+![marshmellow](https://github.com/user-attachments/assets/884baa3d-2a08-4c7f-aab0-556ac8a62e25)
 
 
 
@@ -61,35 +59,45 @@ ENEMIES :
 3 LIVE FROM THE GAME:
 
 
-
-
-![nobreak](https://github.com/user-attachments/assets/5b148978-9229-4ec9-a4de-0aa80c8b7de0)
-
-
-
-MAIN MENU OF THE GAME 
-![Screenshot 2025-07-09 222703](https://github.com/user-attachments/assets/33789804-7932-41ea-bdee-ae3df1512c27)
+![nobreak](https://github.com/user-attachments/assets/da32b494-3fef-4618-8f46-0b36fa6b0128)
 
 
 
 POWER UPS:
 
 1.SPEED POWERUP
-![power](https://github.com/user-attachments/assets/bfc444c3-cf9f-4db5-9615-72c2b92e6636)
 
+![power](https://github.com/user-attachments/assets/00281822-e2b0-46d0-9d51-ddaf386d7b04)
 
 
 2.SHIELD:
+
+
 ![shield](https://github.com/user-attachments/assets/3ce1faee-365c-42ab-b1af-d55afe115b5c)
 
+MAIN MENU :
 
 
-PIC OF THE GAME 
+![Screenshot 2025-07-09 222703](https://github.com/user-attachments/assets/33789804-7932-41ea-bdee-ae3df1512c27)
+
+
+
+PICS OF GAME: 
+
 ![Screenshot 2025-07-09 222949](https://github.com/user-attachments/assets/4d3445a9-fc7c-4ad9-943e-518e685489af)
+
+
+
 
 ![image](https://github.com/user-attachments/assets/ba1ed388-f031-463e-9c75-eb7d20d78652)
 
+
+
+
 ![Screenshot 2025-07-09 224310](https://github.com/user-attachments/assets/eb9f35fd-11a4-4fea-87e8-b19a1312aa82)
+
+
+
 
 ![Screenshot 2025-07-09 224338](https://github.com/user-attachments/assets/92f9eda4-d2ba-4651-863d-58d175399b26)
 
@@ -97,10 +105,20 @@ PIC OF THE GAME
 
 
 
-VIDEO OF THE WORKING GAME:
 
-https://github.com/user-attachments/assets/13e8bfbf-9804-44ba-ae86-151d17e3c9e4
 
+WORKING GAME:
+
+
+
+https://github.com/user-attachments/assets/a6c9df1b-7b54-4d4b-b8d7-202e733e45fe
+
+
+WORKING OF THE PAUSE MENU PANEL AND MAIN MENU:
+
+
+
+https://github.com/user-attachments/assets/5351113c-840c-4808-8b3a-83602a8960d4
 
 
 
