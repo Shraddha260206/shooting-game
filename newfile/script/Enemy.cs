@@ -179,7 +179,7 @@ public class Enemy : MonoBehaviour
             }
 
             // Regular enemy or strong enemy with enough hits
-            int scoreValue = _isStrongEnemy ? 20 : 100;
+            int scoreValue = _isStrongEnemy ? 20 : 10;
             _player?.Addscore(scoreValue);
             Destroy(gameObject);
         }
