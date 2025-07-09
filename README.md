@@ -1,6 +1,6 @@
 ## 🚀 About the Game
 
-**Donut Mayhem: Sky Defenders** is a **vibrant 2D arcade shooter** where you blast your way through waves of adorable yet dangerous donut enemies in an ever-changing sky. Armed with your trusty laser, you'll dodge incoming sweets, take down foes, and watch as the game evolves with your performance
+**VEGGIE MAN** is a **vibrant 2D arcade shooter** where you blast your way through waves of adorable yet dangerous donut enemies in an ever-changing sky. Armed with your trusty laser, you'll dodge incoming sweets, take down foes, and watch as the game evolves with your performance
 
 ### 💥 BOSS MODE  
 Time freezes. A massive donut boss descends. You’ve got **7 seconds** to hit it **10 times** before it disappears forever!
@@ -80,7 +80,7 @@ POWER UPS:
 
 
 2.SHIELD:
-![shield](https://github.com/user-attachments/assets/acabe190-454c-473e-8685-4516ae99c219)
+![shield](https://github.com/user-attachments/assets/3ce1faee-365c-42ab-b1af-d55afe115b5c)
 
 
 
@@ -97,8 +97,12 @@ PIC OF THE GAME
 
 
 
-VEDIO OF THE WORKING GAME:
+VIDEO OF THE WORKING GAME:
+
 https://github.com/user-attachments/assets/13e8bfbf-9804-44ba-ae86-151d17e3c9e4
+
+
+
 
 
 
